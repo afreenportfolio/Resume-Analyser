@@ -12,7 +12,7 @@ Technologies Used
 2. Tools: AI workflows for processing
 
 Installation
-No installation; access via Agent.ai platform (Public profile link:- https://agent.ai/agent/resume-align)
+- No installation; access via Agent.ai platform (Public profile link:- https://agent.ai/agent/resume-align)
 
 Usage
 1. Upload resume and job description.
@@ -20,7 +20,7 @@ Usage
 3. Review the detailed report.
 
 Contributing
-Contributions are welcome! Please fork the repo and submit a pull request.
+- Contributions are welcome! Please fork the repo and submit a pull request.
 
 License
-MIT License
+- MIT License
